@@ -26,6 +26,10 @@ github_username:  jekyll
 
 disqus:
   shortname: hypebeast4lifes-jekyll-site
+  
+ timezone: America/Los_Angeles
+  
+  
 # Build settings
 markdown: kramdown
 theme: minima
